@@ -10,4 +10,4 @@
 in this session we built a profile page of Niki with Bootstrap
 * [Bootstrap](https://getbootstrap.com/)
 * [Repo](https://github.com/virginiaritonga/NWDC1)
-* [Recorded Video (soon)]()
+* [Recorded Video](https://drive.google.com/file/d/14gbSVEioSz-s28lVWR3DRsWPb7xXKPh5/view?usp=sharing)
