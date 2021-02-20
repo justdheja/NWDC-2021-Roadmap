@@ -5,6 +5,8 @@
 ---
 
 ### 1. Bootstrap: a `Powerful` CSS Framework ###
+`20 Februari 2021`
+
 in this session we built a profile page of Niki with Bootstrap
 * [Bootstrap](https://getbootstrap.com/)
 * [Repo](https://github.com/virginiaritonga/NWDC1)
